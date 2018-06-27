@@ -58,5 +58,18 @@
       "name": "BabyPeach",
       "image": "/images/BabyPeach.png",
       "clicked": false
+    },
+    {
+      "id": 11,
+      "name": "GoombaMario",
+      "image": "/images/GoombaMario.png",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "name": "Koopa",
+      "image": "/images/Koopa.png",
+      "clicked": false
     }
+
   ]
