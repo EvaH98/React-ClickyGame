@@ -88,7 +88,7 @@ class App extends Component {
               key={card.id}
               id={card.id}
               name={card.name}
-              image={card.image}
+              image={process.env.PUBLIC_URL + card.image}
               clicked={card.clicked}
               cardClick={this.cardClick}
               background={this.state.background}
