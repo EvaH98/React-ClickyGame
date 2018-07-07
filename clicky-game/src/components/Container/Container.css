@@ -1,4 +1,6 @@
-
+body {
+	background-color: #f8b22b;
+}
 .container {
     padding-top: 20px;
     width: 70%;
