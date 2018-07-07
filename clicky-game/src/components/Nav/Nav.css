@@ -3,13 +3,14 @@
     position: sticky;
     top: 0;
     left: 0;
-    background-color: red;
+    background-color: #7e462f;
     color: white;
     padding: 20px 0;
     text-align: center;
     overflow: hidden;
     box-shadow: 0 3px 10px grey;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 10px;
 }
 
 #navTitle {

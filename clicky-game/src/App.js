@@ -5,6 +5,7 @@ import Container from "./components/Container";
 import Card from "./components/Card";
 import Footer from "./components/Footer"
 import cards from "./cards.json";
+import "./App.css";
 
 class App extends Component {
   state = {
